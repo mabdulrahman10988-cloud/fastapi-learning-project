@@ -1,1 +1,10 @@
-{"P001": {"name": "Ananya Verma", "city": "Guwahati", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obese"}, "P002": {"name": "Ravi Mehta", "city": "Mumbai", "age": 35, "gender": "male", "height": 1.75, "weight": 85, "bmi": 27.76, "verdict": "Overweight"}, "P003": {"name": "Sneha Kulkarni", "city": "Pune", "age": 22, "gender": "female", "height": 1.6, "weight": 45, "bmi": 17.58, "verdict": "Underweight"}, "P004": {"name": "Arjun Verma", "city": "Mumbai", "age": 40, "gender": "male", "height": 1.8, "weight": 90.0, "bmi": 27.78, "verdict": "Normal"}, "P005": {"name": "Neha Sinha", "city": "Kolkata", "age": 30, "gender": "female", "height": 1.55, "weight": 75, "bmi": 31.22, "verdict": "Obese"}}
+{
+  "P001": {"name": "Ahmed Raza", "city": "Lahore", "age": 28, "gender": "male", "height": 1.75, "weight": 90.0, "bmi": 29.39, "verdict": "Normal"},
+  "P002": {"name": "Ayesha Khan", "city": "Karachi", "age": 34, "gender": "female", "height": 1.62, "weight": 58.0, "bmi": 22.10, "verdict": "Normal"},
+  "P003": {"name": "Bilal Hussain", "city": "Islamabad", "age": 45, "gender": "male", "height": 1.78, "weight": 95.0, "bmi": 29.99, "verdict": "Normal"},
+  "P004": {"name": "Fatima Sheikh", "city": "Faisalabad", "age": 22, "gender": "female", "height": 1.60, "weight": 46.0, "bmi": 17.97, "verdict": "Underweight"},
+  "P005": {"name": "Hamza Malik", "city": "Rawalpindi", "age": 38, "gender": "male", "height": 1.72, "weight": 110.0, "bmi": 37.18, "verdict": "Obese"},
+  "P006": {"name": "Sana Chaudhry", "city": "Multan", "age": 30, "gender": "female", "height": 1.58, "weight": 55.0, "bmi": 22.03, "verdict": "Normal"},
+  "P007": {"name": "Usman Tariq", "city": "Peshawar", "age": 26, "gender": "male", "height": 1.80, "weight": 70.0, "bmi": 21.60, "verdict": "Normal"},
+  "P008": {"name": "Zainab Abbasi", "city": "Quetta", "age": 41, "gender": "female", "height": 1.65, "weight": 82.0, "bmi": 30.12, "verdict": "Obese"}
+}
