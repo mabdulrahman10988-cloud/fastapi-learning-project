@@ -27,28 +27,4 @@ This is a small project I built while learning **FastAPI**. It covers the basics
 - Serving a pre-trained ML model through an API endpoint
 - Testing endpoints with FastAPI's built-in `/docs` (Swagger UI)
 
-## How to run
 
-Install dependencies:
-```bash
-pip install fastapi uvicorn pydantic pandas scikit-learn streamlit requests
-```
-
-Run the Patient Management API:
-```bash
-python -m uvicorn main:app --reload
-```
-
-Run the Insurance Premium API:
-```bash
-python -m uvicorn app:app --reload
-```
-
-Then open `http://127.0.0.1:8000/docs` to try out the endpoints.
-
-## Note
-
-`model.pkl` was trained with scikit-learn 1.6.1. If you're on a newer version and hit an unpickling error, install that version:
-```bash
-pip install scikit-learn==1.6.1
-```
